@@ -1,2 +1,1 @@
-# OIBSIP-Task-1
-Developed a landing page for Oasis internship using HTML/CSS.
+Developed a landing page using HTML, CSS.
